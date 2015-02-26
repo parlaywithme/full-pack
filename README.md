@@ -1,3 +1,5 @@
+`meteor add parlay:full-pack`
+
 ## Included
 
 - [reactive-var](https://dweldon.silvrback.com/scoped-reactivity)
