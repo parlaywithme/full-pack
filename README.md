@@ -2,6 +2,7 @@
 
 ## Included
 
+- Everything in [parlay:starter-pack](https://github.com/parlaywithme/starter-pack)
 - [reactive-var](https://dweldon.silvrback.com/scoped-reactivity)
 - [reactive-dict](http://manual.meteor.com/#deps-reactivedictexample)
 - [appcache](https://github.com/meteor/meteor/tree/devel/packages/appcache): cache app in browser
