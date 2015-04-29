@@ -54,8 +54,8 @@
 - [percolate:migrations](https://github.com/percolatestudio/meteor-migrations/): migrations
 - [mdg:reload-on-resume](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:reload-on-resume): prevent Cordova apps from reloading on code push
 - [simple:json-routes](https://github.com/stubailo/meteor-rest/): simple REST endpoints
-- [simple:rest](https://github.com/stubailo/meteor-rest/): automagic REST API
-- [nimble:restivus](https://github.com/kahmali/meteor-restivus/): REST API w/ more features
+- [simple:rest](https://github.com/stubailo/meteor-rest/): automatic REST API for your methods and publications
+- [nimble:restivus](https://github.com/kahmali/meteor-restivus/): create standard REST API for your collections
 - [msavin:jetsetter](https://github.com/msavin/JetSetter): easy in-broswer Session var editing
 - [edgee:slingshot](https://github.com/CulturalMe/meteor-slingshot): file uploads
 - [houston:admin](https://github.com/gterrono/houston): adds database admin UI
