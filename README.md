@@ -49,7 +49,7 @@
 
 ### Misc
 
-- [percolate:momentum](https://github.com/percolatestudio/meteor-momentum): css animations
+- [percolate:momentum](https://github.com/percolatestudio/meteor-momentum): animations
 - [matb33:collection-hooks](https://github.com/matb33/meteor-collection-hooks): collection hooks
 - [percolate:migrations](https://github.com/percolatestudio/meteor-migrations/): migrations
 - [mdg:reload-on-resume](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:reload-on-resume): prevent Cordova apps from reloading on code push
