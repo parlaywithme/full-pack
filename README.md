@@ -38,6 +38,7 @@
 - [fourseven:scss](https://github.com/fourseven/meteor-scss): sass/scss
 - [francocatena:compass](https://github.com/francocatena/meteor-compass): compass
 - [twbs:bootstrap](https://atmospherejs.com/twbs/bootstrap): bootstrap
+- [materialize:materialize](https://atmospherejs.com/materialize/materialize): material design
 - [meteoric:ionic](http://meteoric.github.io/): ionic mobile framework
 
 #### Testing
