@@ -24,6 +24,7 @@
 - [meteorhacks:ssr](https://github.com/meteorhacks/meteor-ssr): render templates on server (eg emails)
 - [meteorhacks:subs-manager](https://github.com/meteorhacks/subs-manager): reuse subscriptions
 - [peerlibrary:assert](https://github.com/peerlibrary/meteor-assert): assert
+- [meteorhacks:fast-render](https://atmospherejs.com/meteorhacks/fast-render): 2-10 times faster initial page loads
 
 ## Recommended
 
