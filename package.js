@@ -31,6 +31,7 @@ Package.onUse(function(api) {
   api.imply('meteorhacks:ssr@2.1.2');
   api.imply('meteorhacks:subs-manager@1.3.0');
   api.imply('peerlibrary:assert@0.2.5');
+  api.imply('meteorhacks:fast-render@2.4.0');
 
   // api.addFiles('parlay:full-pack.js');
 });
