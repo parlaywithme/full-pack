@@ -54,6 +54,7 @@
 - [percolate:momentum](https://github.com/percolatestudio/meteor-momentum): animations
 - [matb33:collection-hooks](https://github.com/matb33/meteor-collection-hooks): collection hooks
 - [percolate:migrations](https://github.com/percolatestudio/meteor-migrations/): migrations
+- [remcoder:chronos](https://github.com/remcoder/chronos/): reactive time
 - [mdg:reload-on-resume](https://github.com/meteor/mobile-packages/tree/master/packages/mdg:reload-on-resume): prevent Cordova apps from reloading on code push
 - [simple:json-routes](https://github.com/stubailo/meteor-rest/): simple REST endpoints
 - [simple:rest](https://github.com/stubailo/meteor-rest/): automatic REST API for your methods and publications
